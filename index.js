@@ -19,13 +19,7 @@ document.getElementById("paragrafo3").style.fontFamily =  "monospace";
 document.getElementById("paragrafo3").style.textAlign = "center";
 document.getElementById("paragrafo3").style.textTransform = "capitalize";
 }
-function mudar_(){
-  document.getElementById("paragrafo3").style.fontSize = "1.2";
-  document.getElementById("paragrafo3").style.color = "orange";
-  document.getElementById("paragrafo3").style.fontFamily =  "monospace";
-  document.getElementById("paragrafo3").style.textAlign = "center";
-  document.getElementById("paragrafo3").style.textTransform = "capitalize";
-}
+
 function mudar_regua_1(){
   document.getElementById("regua3").style.border = "dotted green";
 }
